@@ -1,0 +1,8 @@
+SOLID -->
+1. SRP : Single responsibility principle
+2. OCP : Open closed Principle --> Open for extension, closed for modification
+3. LSP : Liskov's substitution principle --> Parent to be substituted as is in place of Child
+4. ISP : Interface segregation principle --> Light interfaces
+5. DIP : Dependency inversion principle --> Higher order components should not directly depend on lower order components.
+
+
